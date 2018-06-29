@@ -1,6 +1,6 @@
 === Simple Paragraph Block ===
 Contributors: abdullahramzan
-Donate link: http://www.presstigers.com
+Author link: http://www.presstigers.com
 Tags: gutenberg, block, editor
 Requires at least: 4.9.6
 Requires PHP : 5.6
